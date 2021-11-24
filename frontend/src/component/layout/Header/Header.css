@@ -1,0 +1,16 @@
+.logoReactNavbar {
+  width: 100% !important;
+  border-radius: 50%;
+}
+
+.speedDial {
+  position: fixed !important;
+  right: 3vmax;
+  top: 3vmax;
+}
+
+.speedDialIcon {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+}
